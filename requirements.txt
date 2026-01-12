@@ -1,5 +1,12 @@
-pathway
+pathway>=0.13.0
 python-dotenv
 requests
 fastapi
-uvicorn
+uvicorn[standard]
+openai
+httpx
+aiohttp
+pandas
+numpy
+beautifulsoup4
+lxml
